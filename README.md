@@ -1,4 +1,4 @@
-# Developing Django on Repl.it
+# Developing Django on Gitpod.io
 
 - Fork this template to get started
 - Simply hit run to start the server
